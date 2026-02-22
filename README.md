@@ -1,4 +1,4 @@
-# Assemblage Panoramique d’Images — Détection SIFT, Appariement et Stitching par Homographie
+# Assemblage Panoramique d’Images : Détection SIFT, Appariement et Stitching par Homographie
 
 Ce projet assemble plusieurs images qui se chevauchent pour former un panorama. Il utilise SIFT pour les points d’intérêt, le test de Lowe pour filtrer les correspondances et RANSAC pour estimer une homographie robuste.
 
@@ -135,3 +135,4 @@ TP5_ELBAZ/
 ---
 
 **Auteur :** ELBAZ
+
