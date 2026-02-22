@@ -1,0 +1,50 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+
+# Virtual environments
+venv/
+env/
+ENV/
+.venv
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Fichiers lourds et inutiles
+*.pdf
+*.zip
+*.rar
+*.avi
+*.mp4
+*.mov
+*.jpg
+*.jpeg
+*.png
+*.JPG
+*.PNG
+*.gif
+*.h5
+*.weights
+*.npz
+*.docx
+*.doc
+
+# Cache et fichiers temporaires
+.pytest_cache/
+*.cache
+*.log
+
+# Dossiers d'essai
+1er essai/
+2 éme essai/
+
+# OS
+.DS_Store
+Thumbs.db
